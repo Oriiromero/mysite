@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cormorant Infant', serif;
+  font-weight: bolder;
+  color: #40514E;
+}
+
+hr {
+  border-color: #A8E7E9;
+  border-style:none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+  margin: 40px auto 40px auto;
+}
+
+.top-container {
+  background-color: #79B4B7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding: 100px 0 50px 0;
+  background-color:#EFF8FF ;
+}
+
+.bottom-container {
+  background-color:#CDF0EA ;
+  font-family: 'Zen Maru Gothic', sans-serif;
+  padding: 40px 0 40px 0;
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Clicker Script', cursive;
+  font-size: 5.625rem;
+  color: #345B63;
+}
+
+h2 {
+  font-family: 'Zen Maru Gothic', sans-serif;
+  font-size: 1.5rem;;
+  color: #345B63;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: 'Zen Maru Gothic', sans-serif;
+  color: #11999E;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-me {
+  font-family: 'Zen Maru Gothic', sans-serif;
+}
+
+.paragraph1 {
+  margin: 50px 0 0 0;
+  font-size: 0.7rem;
+  color: #11999E;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.profileimg {
+  height: 250px;
+  width: auto;
+  border-radius: 50%;
+}
+
+.coctail {
+  height: 200px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.makeup {
+  height: 200px;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-linkedin {
+  color: #11999E;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.footer-twitter {
+  color: #11999E;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.footer-ig {
+  color: #11999E;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.BUTTON_PRV {
+   background: #9DDAC6;
+   background-image: -webkit-linear-gradient(top, #9DDAC6, #38A3A5);
+   background-image: -moz-linear-gradient(top, #9DDAC6, #38A3A5);
+   background-image: -ms-linear-gradient(top, #9DDAC6, #38A3A5);
+   background-image: -o-linear-gradient(top, #9DDAC6, #38A3A5);
+   background-image: -webkit-gradient(to bottom, #9DDAC6, #38A3A5);
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 100px;
+   color: #CDF0EA;
+   font-family:  'Zen Maru Gothic', sans-serif;
+   font-size: 13px;
+   font-weight: 400;
+   padding: 8px;
+   -webkit-box-shadow: inset 1px 1px 20px 0 #38A3A5;
+   -moz-box-shadow: inset 1px 1px 20px 0 #38A3A5;
+   box-shadow: inset 1px 1px 20px 0 #38A3A5;
+   text-shadow: 1px 1px 20px #38A3A5;
+   border: solid #38A3A5 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 50px 0 50px 0;
+}
+
+.BUTTON_PRV:hover {
+   border: solid #52006A 0;
+   background: #BEAEE2;
+   background-image: -webkit-linear-gradient(top, #BEAEE2, #52006A);
+   background-image: -moz-linear-gradient(top, #BEAEE2, #52006A);
+   background-image: -ms-linear-gradient(top, #BEAEE2, #52006A);
+   background-image: -o-linear-gradient(top, #BEAEE2, #52006A);
+   background-image: -webkit-gradient(to bottom, #BEAEE2, #52006A);
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 100px;
+   text-decoration: none;
+}
